@@ -13,7 +13,7 @@ A C++ console-based Student Grade Management System developed using object-orien
 - Save/load data from file
 
 ## Project Report
-📄 [View Project Report (PDF)](report/STUDENT_GRADE_MANAGEMENT_SYSTEM.pdf)
+📄 [View Project Report (PDF)](report/STUDENT GRADE MANAGEMENT SYSTEM.pdf)
 
 
 > Note: If GitHub preview fails, please download the PDF to view the report.
