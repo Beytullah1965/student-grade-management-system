@@ -1,24 +1,55 @@
 # Student Grade Management System
 
-## Description
-A C++ console-based Student Grade Management System developed using object-oriented programming principles.
+A C++ console-based application designed to manage student records and grades using object-oriented programming principles.  
+The system focuses on clean design, data integrity, and practical academic use cases.
 
-## Features
-- Add and remove students
-- Enter and update grades
+---
+
+## 🚀 Features
+
+- Add, remove, and manage student records
+- Enter and update course grades
 - Credit-based weighted GPA calculation
-- Student ranking by GPA
-- Class statistics
+- Automatic student ranking by GPA
+- Class-level statistical analysis
 - Transcript generation
-- Save/load data from file
+- Persistent data storage with file I/O (save/load)
 
-### Project Report
-📄 [View Project Report (PDF)](report/STUDENT%20GRADE%20MANAGEMENT%20SYSTEM.pdf)
+---
 
+## 🛠 Technologies & Concepts
+
+- **Language:** C++
+- **Paradigm:** Object-Oriented Programming (OOP)
+- **Core Concepts:**
+  - Classes & objects
+  - Encapsulation
+  - File handling (persistent storage)
+  - Input validation
+  - Modular design
+
+---
+
+## 📂 Project Structure
+
+- `src/` – Core source files
+- `include/` – Header files
+- `data/` – Stored student data files
+- `main.cpp` – Application entry point
+
+---
+
+## 📄 Project Report
+
+📘 [View Project Report (PDF)](./report.pdf)
 
 > Note: If GitHub preview fails, please download the PDF to view the report.
 
-## Developers
-- Feyza KORKMAZ  
-- Rayiha SÖNMEZ  
-- Beytullah AYDIN
+---
+
+## 👨‍💻 Developers
+
+- Feyza Korkmaz  
+- Rayiha Sönmez  
+- Beytullah Aydın
+
