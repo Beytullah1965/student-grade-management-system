@@ -41,7 +41,8 @@ The system focuses on clean design, data integrity, and practical academic use c
 
 ## 📄 Project Report
 
-📘 [View Project Report (PDF)](./report.pdf)
+📘 [Download Project Report (PDF)](report/student-grade-management-system.pdf)
+
 
 > Note: If GitHub preview fails, please download the PDF to view the report.
 
