@@ -1,6 +1,6 @@
 # Student Grade Management System
 
-A C++ console-based application designed to manage student records and grades using object-oriented programming principles.  
+C++ console-based student grade management system using OOP and file handling.
 The system focuses on clean design, data integrity, and practical academic use cases.
 
 ---
